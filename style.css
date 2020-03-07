@@ -1,0 +1,11 @@
+
+.tabel{
+    cursor: pointer;
+    text-align: center;
+    transition-property: background;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+.tabel:hover{
+    background: aqua;
+}
